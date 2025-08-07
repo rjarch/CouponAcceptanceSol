@@ -8,7 +8,7 @@ This project focuses on distinguishing between customers who accept and those wh
 
 ## Data Source
 
-The dataset used in this project is obtained from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/), based on survey responses collected via Amazon Mechanical Turk. Participants were presented with hypothetical driving scenarios and asked whether they would accept a coupon in each case.
+The dataset used in this project is obtained from the UCI Machine Learning Repository, based on survey responses collected via Amazon Mechanical Turk. Participants were presented with hypothetical driving scenarios and asked whether they would accept a coupon in each case.
 
 ### Response Categories
 
